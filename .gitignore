@@ -1,6 +1,7 @@
 # ignore images since they will be too large for git
 *.jpg
 *.png
+*.jpeg
 
 # ignore random files
 .DS_Store

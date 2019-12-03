@@ -2,6 +2,7 @@
 *.jpg
 *.png
 *.jpeg
+*.icloud
 
 # ignore random files
 .DS_Store
